@@ -5,7 +5,7 @@
 ```javascript
 const Charan = {
     pronouns: "He" | "Him",
-    code: [ "Javascript", "Python", "Java", "HTML", "CSS" ],
+    code: [ "React", "Javascript", "Python", "Java", "HTML", "CSS" ],
     askMeAbout: [ "web dev", "tech" ],
     currentFocus: "Web Development",
     funFact: "Don't be proud until you deployed an application in production;"
